@@ -7,7 +7,7 @@ The K nearest neighbors(KNNs) is an algorithm for classification problem. Its ba
 ## Datasets
 
 
-Here we use a dataset of loan default during 2018Q3 from LendingClub, a famous P2P lending company, for this KNN implementation. The datasets include 81 attributes after dropping columns that have imbalanced data and too much NAN values, and more than 100 thousands rows. For simplicity, we only extract ten percent samples from the raw data. Below are some examples of the attribute descriptions:
+Here we use a dataset of loan default during 2018Q3 from LendingClub, a famous P2P lending company, for this KNN implementation. The datasets include 81 attributes after dropping columns that have imbalanced data and too much NAN values, and more than 100 thousands rows. For simplicity, we only extract around 6000 rows from the raw data. Below are some examples of the attribute descriptions:
 
 loan_amnt                   128412 non-null  int64       loan amount in 2018Q3
 
