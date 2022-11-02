@@ -9,7 +9,7 @@ Here we use a dataset of wine data from UCI machine learning repository. The who
 1) Alcohol: The alcohol by volume in a specific type of wine
 2) Malic acid: The concentration of malic acid in a specific type of wine
 3) Ash: the concentration of ash content produced during aging in wine
-4) Alcalinity of ash: the pH of ash content
+4) Alcalinity of ash: the concentration of alkali in ash content
 5) Magnesium: the concentration of magnesium(Mg) in wine 
 6) Total phenols: the concentration of phenols in wine
 7) Flavanoids: the concentration of flavanoids in wine
