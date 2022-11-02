@@ -22,4 +22,4 @@ Here we use a dataset of wine data from UCI machine learning repository. The who
 
 # Aim
 
-We would use a single layer perceptron model to predict the default condition of each loan borrower.
+We would use a single layer perceptron model to predict the type of wine based on pre-chosen two attributes.
