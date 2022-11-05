@@ -4,7 +4,7 @@ A single layer perceptron can not only be applied to classification problems, bu
 
 # Datasets
 
-For simplicity, we would randomly generate some datapoints for implementing the algorith,.
+For simplicity, we would generate a random datasets that has a linear upward trend for implementing the algorithm.
 
 # Aim
 
