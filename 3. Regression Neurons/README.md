@@ -4,7 +4,7 @@ A single layer perceptron can not only be applied to classification problems, bu
 
 # Datasets
 
-For simplicity, we would generate a random datasets that has a linear upward trend for implementing the algorithm.
+For simplicity, we would continue to use the wine datasets and pick one type of wine from it for implementing the algorithm.
 
 # Aim
 
