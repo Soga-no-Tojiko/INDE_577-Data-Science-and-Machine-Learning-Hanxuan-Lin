@@ -110,5 +110,6 @@ Attribute Information:
 # Aim
 
 For dry beans data, we will use decision tree in scikit-learn to model the full classification data. 
+
 But for air quality data, we will use part of the dataset, saying one of the sensor response with all of the other true data to see if regression tree works. 
 Xgboost would be also considered as it is much more efficient than decision tree.
