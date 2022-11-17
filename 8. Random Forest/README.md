@@ -10,18 +10,18 @@ Random forests is a supervised learning algorithm. It can be used both for class
 ![image](https://user-images.githubusercontent.com/106775775/202558852-547bb40e-fe63-443f-9cd1-32232cd6b8f9.png)
 
 
-Advantages:
+### Advantages:
 1. Random forests is considered as a highly accurate and robust method because of the number of decision trees participating in the process.
 2. It does not suffer from the overfitting problem. The main reason is that it takes the average of all the predictions, which cancels out the biases.
 3. The algorithm can be used in both classification and regression problems.
 4. Random forests can also handle missing values. There are two ways to handle these: using median values to replace continuous variables, and computing the proximity-weighted average of missing values.
 5. The algorithm can get the relative feature importance, which helps in selecting the most contributing features for the classifier.
 
-Disadvantages:
+### Disadvantages:
 1. Random forests is slow in generating predictions because it has multiple decision trees. Whenever it makes a prediction, all the trees in the forest have to make a prediction for the same given input and then perform voting on it. This whole process is time-consuming.
 2. The model is difficult to interpret compared to a decision tree, where you can easily make a decision by following the path in the tree.
 
-Random Forests vs Decision Trees
+### Random Forests vs Decision Trees
 1. Random forests is a set of multiple decision trees.
 2. Deep decision trees may suffer from overfitting, but random forests prevents overfitting by creating trees on random subsets.
 3. Decision trees are computationally faster.
