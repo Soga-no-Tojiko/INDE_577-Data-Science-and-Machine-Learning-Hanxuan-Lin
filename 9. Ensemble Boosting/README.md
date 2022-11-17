@@ -8,6 +8,9 @@ The core principle of AdaBoost is to fit a sequence of weak learners (i.e., mode
 
 Gradient boosting is a machine learning technique used in regression and classification tasks, among others. It gives a prediction model in the form of an ensemble of weak prediction models, which are typically decision trees. When a decision tree is the weak learner, the resulting algorithm is called gradient-boosted trees; it usually outperforms random forest. A gradient-boosted trees model is built in a stage-wise fashion as in other boosting methods, but it generalizes the other methods by allowing optimization of an arbitrary differentiable loss function.
 
+![image](https://user-images.githubusercontent.com/106775775/202561578-93457b70-422b-4308-9747-0b0b4d7a6a4f.png)
+
+
 # Data
 
 Again, we will use dry bean datasets to solve a classification problem. 
