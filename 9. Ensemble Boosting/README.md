@@ -17,4 +17,4 @@ Again, we will use dry bean datasets to solve a classification problem.
 
 # Aim
 
-For both Adaboost and GBDT, this time we will also tune the hyperparameters to search for a best model.
+For both Adaboost and GBDT, we will apply the codes from slides to see if they can work.
