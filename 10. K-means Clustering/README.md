@@ -12,7 +12,7 @@ It halts creating and optimizing clusters when either the centroids have stabili
 
 # Data
 
-For simplicity, we will use a randomly generated dataset to perform k-means analysis.
+For simplicity, we will use a subset of wine datasets used before.
 
 # Aim
 
