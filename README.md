@@ -17,7 +17,7 @@ The lectures of INDE 577 are given by R. Davila by Rice University in the Fall s
 
 ### Data sources
 
-All the data used in these algorithms are from public database, such as LendingClub, UCI Machine Learning Repository[ https://archive.ics.uci.edu/ml/index.php], etc. And some random numberical data are generated as needed in the code.
+All the data used in these algorithms are from public database, such as LendingClub, UCI Machine Learning Repository[ https://archive.ics.uci.edu/ml/index.php], etc. And some random numerical data are generated as needed in the code.
 
 ### Python packages
 
